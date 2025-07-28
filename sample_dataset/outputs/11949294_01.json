@@ -1,0 +1,395 @@
+{
+  "title": "THE STUDY",
+  "outline": [
+    {
+      "level": "H3",
+      "text": "MINISTRY OF ENERGY AND MINERAL RESOURCES",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "REPUBLIC OF INDONESIA",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "THE STUDY",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "ENERGY CONSERVATION",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "AND EFFICIENCY IMPROVEMENT",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "THE REPUBLIC OF INDONESIA",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "FINAL REPORT",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "ENERGY EFFICIENCY IMPROVEMENT",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "AND CONSERVATION GUIDELINE",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Draft Version",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "AUGUST 2009",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "JAPAN INTERNATIONAL COOPERATION AGENCY",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "ELECTRIC POWER DEVELOPMENT CO., LTD.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Outline of Management for Energy Efficiency Improvement",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "and Conservation (EE&C)",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Methodology of Conducting an Energy Audit",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Company President",
+      "page": 50
+    },
+    {
+      "level": "H3",
+      "text": "Name",
+      "page": 50
+    },
+    {
+      "level": "H3",
+      "text": "Section",
+      "page": 50
+    },
+    {
+      "level": "H3",
+      "text": "Phone / Email",
+      "page": 50
+    },
+    {
+      "level": "H3",
+      "text": "Date",
+      "page": 50
+    },
+    {
+      "level": "H3",
+      "text": "1. General",
+      "page": 50
+    },
+    {
+      "level": "H3",
+      "text": "2. Annual Energy Consumption and Energy Intensity",
+      "page": 50
+    },
+    {
+      "level": "H3",
+      "text": "3. Annual Energy Cost and Energy Cost Ratio",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "4. Energy Consuming Equipment and Operation Condition",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "4.5 use Conditions",
+      "page": 53
+    },
+    {
+      "level": "H3",
+      "text": "JICA Study Team",
+      "page": 54
+    },
+    {
+      "level": "H3",
+      "text": "1. Building Outline",
+      "page": 54
+    },
+    {
+      "level": "H3",
+      "text": "2. Energy Consuming Equipment",
+      "page": 55
+    },
+    {
+      "level": "H3",
+      "text": "3. Annual Data",
+      "page": 55
+    },
+    {
+      "level": "H3",
+      "text": "4. EE&C for Buildings",
+      "page": 56
+    },
+    {
+      "level": "H3",
+      "text": "and notes to be taken during a measurement",
+      "page": 67
+    },
+    {
+      "level": "H3",
+      "text": "and notes to he taken after the measurement",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "When analyzing recorded data, display it on a table or graph so that it can be",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "viewed easily. In doing so, indicate the date, factory name, measurement object,",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "and other particular remarks.",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "If the measurement object (facility, line, etc.) was subject to a temporary hale",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "due to an , such as an accident, immediately before the start of operation",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "or immediately after the end of operation, there will be a large fluctuation in",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "Yhe measurement data. In such a case, carry out steps that will enhance ease of",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "analysis such as removing the affected part of the data, or consult with an",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "expert.",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "An example of a primary processing of measurement data is shown in",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "Table 2.7.2-1 and Figure 2.7.2-2",
+      "page": 68
+    },
+    {
+      "level": "H1",
+      "text": "The Report of Factory Energy Audit",
+      "page": 72
+    },
+    {
+      "level": "H1",
+      "text": "XXXX Company",
+      "page": 72
+    },
+    {
+      "level": "H1",
+      "text": "Republic of Indonesia",
+      "page": 72
+    },
+    {
+      "level": "H3",
+      "text": "November 2007",
+      "page": 72
+    },
+    {
+      "level": "H3",
+      "text": "Japan International Cooperation Agency (JICA)",
+      "page": 72
+    },
+    {
+      "level": "H3",
+      "text": "1. Outline of the factory",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "a. Factory name: XXX Company",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "b. Location:",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "Tel Fax",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "c. The contents of business",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "Sub-sector :",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "Main product of the factory:",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "Capital: -",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "Annual shipment amount: -",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "The number of employees of the factory: - Persons",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "d. Main person in charge at the energy audit: (Mr. Ms.)",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "2. Outline of energy audit",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "a. Person engaged in energy audit",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "b. Energy auditing date:",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "c. Request items on energy audit (main items): Fill the request items of the factory from the questionnaire",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "3. Energy audit results",
+      "page": 74
+    },
+    {
+      "level": "H3",
+      "text": "(1)",
+      "page": 74
+    },
+    {
+      "level": "H3",
+      "text": "Improvement proposal items and the expected effect after improvement measure implementation",
+      "page": 74
+    },
+    {
+      "level": "H3",
+      "text": "(2)",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": "The amount of the annual energy consumption, the energy cost ratio, and energy intensity of the whole factory in 2006",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": "(3)",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": "Remarks",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": "Factory energy conservation audit",
+      "page": 76
+    },
+    {
+      "level": "H3",
+      "text": "Observation list (Detailed explanation of improvement and expected effects are indicated in attached sheet)",
+      "page": 76
+    },
+    {
+      "level": "H3",
+      "text": "Buildings",
+      "page": 108
+    },
+    {
+      "level": "H3",
+      "text": "Electricity balance",
+      "page": 108
+    },
+    {
+      "level": "H2",
+      "text": "Typical energy conservation",
+      "page": 123
+    },
+    {
+      "level": "H2",
+      "text": "case",
+      "page": 123
+    },
+    {
+      "level": "H2",
+      "text": "Hf fluorescent lamp",
+      "page": 123
+    }
+  ]
+}
